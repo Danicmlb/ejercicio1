@@ -1,4 +1,4 @@
-public class Juan
+public class Juan {
 	
 	
 }
